@@ -1,2 +1,1 @@
-# ovo-com-tech-radar
-OVO.com Tech Radar
+# OVO.com Tech Radar
