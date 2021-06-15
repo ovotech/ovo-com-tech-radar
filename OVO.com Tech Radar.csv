@@ -1,7 +1,7 @@
 name,ring,quadrant,isNew,description
 "A/B testing","adopt","Techniques",false,""
 "APIs as a product","adopt","Techniques",false,""
-"Automatd database deployment","adopt","Techniques",false,""
+"Automated database deployment","adopt","Techniques",false,""
 "Automated build/deployment pipeline","adopt","Techniques",false,""
 "Automation of technical tests","adopt","Techniques",false,""
 "Bug bounties","adopt","Techniques",false,""
