@@ -71,6 +71,7 @@ name,ring,quadrant,isNew,description
 "Pagerduty","adopt","Platforms",false,""
 "PostgreSQL","adopt","Platforms",false,""
 "Redis","adopt","Platforms",false,""
+"Snyk","adopt","Platforms",false,""
 "Tableau","adopt","Platforms",false,""
 "Airflow","adopt","Tools",false,""
 "Coveralls","adopt","Tools",false,""
