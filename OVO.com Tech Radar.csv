@@ -59,7 +59,7 @@ name,ring,quadrant,isNew,description
 "Elastic Search","adopt","Platforms",false,""
 "Firebase","adopt","Platforms",false,""
 "FullStory","adopt","Platforms",false,""
-"GCP","adopt","Platforms",false,""
+"GCP","adopt","Platforms",false,"Caveat: Only for services that integrate well with BigQuery or where no equivalent service/feature is available on AWS"
 "GCP - BigQuery","adopt","Platforms",false,""
 "GitHub Actions","adopt","Platforms",false,""
 "GitHub","adopt","Platforms",false,""
