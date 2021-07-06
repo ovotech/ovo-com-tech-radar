@@ -1,7 +1,7 @@
 # OVO.com Technology Radar
 
 The OVO.com Technology Radar is a living document that captures and
-give a high-level overview of our technology landscape.
+provides a high-level overview of our technology landscape.
 
 A consistent technology stack is often a big driver of delivery efficiency, cost
 effectiveness and knowledge sharing and the Technology Radar is an important
