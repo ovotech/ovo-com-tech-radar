@@ -1,9 +1,12 @@
 # OVO.com Technology Radar
 
 The OVO.com Technology Radar is a living document that attempts to capture and
-give a high-level overview of our technology landscape. It's also a tool that
-helps us in discussions about various technologies that we want to use and
-invest in as an organisation.
+give a high-level overview of our technology landscape.
+
+A consistent technology stack is often a big driver of delivery efficiency, cost
+effectiveness and knowledge sharing and the Technology Radar is an important
+tool that helps us in discussions about the technologies that we want to
+standardise on and invest in as an organisation.
 
 The radar consists of four quadrants:
 
@@ -52,6 +55,9 @@ such, anyone can:
   appropriate for a pull request
 - review and comment on pull requests
 
-You can also get in touch with us via
-[ovotech/general](https://gitter.im/ovotech/general) channel on Gitter. Please
-use our OVO.com #ovo-com-tech Slack channel for internal discussions.
+In order to assess or trial a significant technology that's not listed on the
+Radar, please use our #ovo-com-tech Slack channel to start a discussion and
+share your use case with others.
+
+For any external contributions, please raise an issue or get in touch with us
+via our [ovotech/general](https://gitter.im/ovotech/general) channel on Gitter.
