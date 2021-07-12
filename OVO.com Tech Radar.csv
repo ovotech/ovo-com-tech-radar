@@ -47,6 +47,7 @@ name,ring,quadrant,isNew,description
 "React Native","adopt","Languages & Frameworks",false,""
 "React","adopt","Languages & Frameworks",false,""
 "Scala","adopt","Languages & Frameworks",false,""
+"Scala - Typelevel stack","adopt","Languages & Frameworks",false,"https://typelevel.org"
 "TypeScript","adopt","Languages & Frameworks",false,""
 "Aiven","adopt","Platforms",false,""
 "Apache Kafka","adopt","Platforms",false,""
