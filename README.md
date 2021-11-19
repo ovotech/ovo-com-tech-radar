@@ -120,7 +120,7 @@ by the HoE after considering the recommendation from the Tech Radar Advisory
 Group on whether the process can be resumed or the technology should remain on
 Hold.
 
-See the following flowchart for a sunmmary of the process:
+See the following flowchart for a summary of the process:
 
 ![](review-process.svg)
 [Source](https://drive.google.com/file/d/1dPTx3ElrchkRw7iBxsNSReP35Sn68iVc/view?usp=sharing)
