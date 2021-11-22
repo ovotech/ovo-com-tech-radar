@@ -123,8 +123,8 @@ Hold.
 See the following flowchart for a summary of the process:
 
 ![](review-process.svg)
-[Source](https://drive.google.com/file/d/1dPTx3ElrchkRw7iBxsNSReP35Sn68iVc/view?usp=sharing)
-(for making comments or suggesting any changes)
+[Source](https://drive.google.com/file/d/1dPTx3ElrchkRw7iBxsNSReP35Sn68iVc) (for
+making comments or suggesting any changes)
 
 ### Responsibility boundaries
 
