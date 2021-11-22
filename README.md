@@ -38,9 +38,9 @@ Each quadrant is divided into four rings:
   and experiences.
 - **Hold**  
    Technologies not recommended to be used for new projects. Technologies that we
-  think are not (yet) mature enough to warrant continued investment. The technologies should not be
-  used for new projects, however it might be acceptable to continue using the technology
-  on an existing project.
+  think are not (yet) mature enough to warrant continued investment. The technologies
+  should not be used for new projects, however it might be acceptable to continue
+  using the technology on an existing project.
 
 ## Why you should use the Radar
 
