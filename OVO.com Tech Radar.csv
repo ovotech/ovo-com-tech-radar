@@ -98,6 +98,7 @@ name,ring,quadrant,isNew,description
 "Jupyter","adopt","Tools",false,""
 "Kong API Gateway","adopt","Tools",false,""
 "Postman","adopt","Tools",false,""
+"SBT","adopt","Tools",false,""
 "Scala Steward","adopt","Tools",false,""
 "Swagger","adopt","Tools",false,""
 "Terraform","adopt","Tools",false,""
