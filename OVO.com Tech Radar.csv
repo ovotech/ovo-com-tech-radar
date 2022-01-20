@@ -26,6 +26,7 @@ name,ring,quadrant,isNew,description
 "Infrastructure as code","adopt","Techniques",false,""
 "Lightweight Architecture Decision Records","adopt","Techniques",false,""
 "Microservices","adopt","Techniques",false,""
+"Monorepo","trial","Techniques",true,""
 "Multi-account cloud setup","adopt","Techniques",false,""
 "Observability as code","adopt","Techniques",false,""
 "Partition infrastructure along team bounds","adopt","Techniques",false,""
