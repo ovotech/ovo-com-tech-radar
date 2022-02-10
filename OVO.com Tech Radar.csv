@@ -88,6 +88,7 @@ name,ring,quadrant,isNew,description
 "Snyk","adopt","Platforms",false,""
 "Tableau","adopt","Platforms",false,""
 "Airflow","adopt","Tools",false,""
+"Bazel for Scala","hold","Tools",true,"We found that in case of Scala projects the poor developer experience, the lack of good IDE integtrations and the high learning curve outwheigs its benefits."
 "Coveralls","adopt","Tools",false,""
 "Cypress","adopt","Tools",false,""
 "Dependabot","adopt","Tools",false,""
