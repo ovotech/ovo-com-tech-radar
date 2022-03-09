@@ -8,6 +8,7 @@ name,ring,quadrant,isNew,description
 "Canary deployments","adopt","Techniques",false,""
 "Capturing client-side JavaScript errors","adopt","Techniques",false,""
 "Categorization & prioritization of technical debt","adopt","Techniques",false,""
+"Cattle, not Pets","adopt","Techniques",false,"This analogy refers to the amount of time and effort that should be given to individual instances in a cluster. When a pet gets sick, lots of resources are spent on nursing it back to health. But when an individual cow in a herd gets sick, it's quickly replaced. We should ensure that our services are treated as cattle and designed so that individual instances can be quickly and (ideally) automatically replaced when their health degrades."
 "Cloud sandboxes","adopt","Techniques",false,""
 "Configuration in code","adopt","Techniques",false,""
 "Container security scanning","adopt","Techniques",false,""
